@@ -5,7 +5,10 @@ Descrição do Projeto Simples:Simulação de Agência de Viagem
 
 Este projeto simplese embora não seja um projeto complexo ou visualmente impressionante, representa uma tentativa inicial de aplicar meus conhecimentos em um contexto prático.
 
-O projeto consiste em uma página simulando uma agência de viagens fictícia. A estrutura básica inclui:
+O projeto consiste em uma página simulando uma agência de viagens fictícia. 
+
+
+A estrutura básica inclui:
 
 Um título central que apresenta o nome fictício da agência.
 
