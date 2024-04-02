@@ -1,8 +1,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 primeiros passos na programação e me dedico ao estudo e treinamento em diversas linguagens. Meu objetivo é constantemente aprimorar meu aprendizado e adquirir conhecimento e experiência nesta área em crescimento.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Descrição do Projeto Simples: Simulação de Agência de Viagem
-Este projeto simples marca um marco significativo em minha jornada de aprendizado em programação. Embora não seja um projeto complexo ou visualmente impressionante, representa uma tentativa inicial de aplicar meus conhecimentos em um contexto prático.
+Descrição do Projeto Simples:Simulação de Agência de Viagem
+
+Este projeto simplese embora não seja um projeto complexo ou visualmente impressionante, representa uma tentativa inicial de aplicar meus conhecimentos em um contexto prático.
 
 O projeto consiste em uma página simulando uma agência de viagens fictícia. A estrutura básica inclui:
 
